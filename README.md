@@ -4,7 +4,7 @@
 
 🛠️ Unlike typical sales-driven roles, I don’t just represent the product — I help build it. My work spans architecture design, backend development, deployment automation (🐳 Docker, ☸️ Kubernetes), and aligning features with real accounting, HR, and tax requirements — especially for the Ukrainian market.
 
-💼 With over 10 years of experience in ERP development and systems integration, and several years in backend, frontend and DevOps practices, I speak the language of both engineers and business users. I focus on practical impact: helping companies move away from legacy or risky platforms like 1C/BAS, and making sure the transition is not just possible — but smooth and scalable.
+💼 With **over 10 years** of experience in ERP development and systems integration, and **several years** in backend, frontend and DevOps practices, I speak the language of both engineers and business users. I focus on practical impact: helping companies move away from legacy or risky platforms like 1C/BAS, and making sure the transition is not just possible — but smooth and scalable.
 
 [![Gmail Badge](https://img.shields.io/badge/-borovlev.artem@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:borovlev.artem@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Artem%20Borovlev-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/borovlev/ "Connect on LinkedIn")
