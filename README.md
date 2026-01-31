@@ -1,10 +1,24 @@
-## Hi there 👋
+## Hi 👋
 
-🧑‍💼 My name is **Artem** and I'm a Product Owner and technical architect of **Simbioz FAMS** — a full-featured ERP system built entirely on top of **standard Odoo**, designed as a real alternative to legacy platforms like 1C/BAS for businesses seeking modern, open, and independent solutions.
+I'm **Artem**, a **Senior Full-Stack Odoo Developer / Technical Architect** with **15+ years in ERP systems** and deep hands-on experience building complex business logic on top of **Odoo CE/EE**.
 
-🛠️ Unlike typical sales-driven roles, I don’t just represent the product — I help build it. My work spans architecture design, backend development, deployment automation (🐳 Docker, ☸️ Kubernetes), and aligning features with real accounting, HR, and tax requirements — especially for the Ukrainian market.
+I specialize in **non-trivial accounting and financial workflows**: cashflow management, cost allocation, budgeting, payroll, inventory, and regulatory-driven logic. Most of my work lives well beyond “standard Odoo customization” — custom data models, performance-critical PostgreSQL queries, and rich OWL/JS frontend where the default UI is not enough.
 
-💼 With **over 10 years** of experience in ERP development and systems integration, and **several years** in backend, frontend and DevOps practices, I speak the language of both engineers and business users. I focus on practical impact: helping companies move away from legacy or risky platforms like 1C/BAS, and making sure the transition is not just possible — but smooth and scalable.
+### What I actually do
+- Design **pragmatic system architectures** for real-world ERP scenarios
+- Build **production-grade Odoo modules** (Python backend + OWL/JS frontend)
+- Implement **complex accounting logic** that must be correct, traceable, and explainable
+- Create **dynamic analytical reports** for Odoo Community Edition
+- Work end-to-end: from business rules → code → deployment (Docker, Kubernetes, CI/CD)
+
+### Tech focus
+- **Odoo**: ORM, business logic, XML views, OWL/JS, custom UI components
+- **Backend**: Python, PostgreSQL (complex queries, performance tuning)
+- **Frontend (Odoo-specific)**: OWL/JS, stateful client logic, backend–frontend integration
+- **DevOps**: Docker, Kubernetes, multi-environment setups, GitHub CI/CD
+- **Practices**: OCA standards, refactoring legacy systems, long-living codebases
+
+I care about **maintainability, correctness, and long-term evolution** of systems — especially where ERP solutions tend to degrade over time.
 
 [![Gmail Badge](https://img.shields.io/badge/-borovlev.artem@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:borovlev.artem@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Artem%20Borovlev-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/borovlev/ "Connect on LinkedIn")
